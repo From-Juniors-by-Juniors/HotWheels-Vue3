@@ -4,7 +4,7 @@
     font-size: 0.625rem;
     --bg-color-white: #eee;
     --bg-hotwheels-blue: #1199d5;
-    --fnt-color-subtitles-blue: #F1D74D;
+    --fnt-color-subtitles-yellow: #F1D74D;
     --fnt-color-titles-red: #e7410e;
 }
 
@@ -16,7 +16,7 @@
 }
 
 body {
-    background: var(--bg-color-blue);
+    background: var(--bg-color-white);
 }
 
 h2 {
